@@ -27,5 +27,6 @@ Table of Contents
 ## Documentation
   - [lk wiki](https://github.com/littlekernel/lk/wiki) - official wiki pages
   - [lk bootloader overview](https://developer.qualcomm.com/qfile/28821/lm80-p0436-1_little_kernel_boot_loader_overview.pdf) - Qualcomm bootloader overview of dragon processors
+  -[tlk](https://trustedfirmware-a.readthedocs.io/en/latest/components/spd/tlk-dispatcher.html#trusted-little-kernel-tlk) - Trusted Little Kernel
 
   
