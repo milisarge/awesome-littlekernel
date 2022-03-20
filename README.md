@@ -24,12 +24,12 @@ Table of Contents
   - [lk-userspace](https://github.com/ayrtonm/lk)  - some userspace stuff
   - [zircon](https://fuchsia.googlesource.com/fuchsia/+/refs/heads/main/zircon) - lk based microkernel project in Fuchsia OS
 
-
 ## Documentation
   - [lk wiki](https://github.com/littlekernel/lk/wiki) - official wiki pages
   - [lk bootloader overview](https://developer.qualcomm.com/qfile/28821/lm80-p0436-1_little_kernel_boot_loader_overview.pdf) - Qualcomm bootloader overview of dragon processors
   -[tlk](https://trustedfirmware-a.readthedocs.io/en/latest/components/spd/tlk-dispatcher.html#trusted-little-kernel-tlk) - Trusted Little Kernel
 
 ## Discuss
+ - [irc chat](https://web.libera.chat/#lk) - IRC chat 
  - [kernel type](https://forum.osdev.org/viewtopic.php?f=15&t=31930) some osdev forum post about LK kernel type  (monolithic or microkernel)
   
