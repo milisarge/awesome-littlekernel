@@ -14,6 +14,7 @@ Table of Contents
   - [LK](https://github.com/littlekernel/lk) - main project
   - [lkuser](https://github.com/littlekernel/lkuser) - framework for a simple user space
   - [lk2nd](https://github.com/msm8916-mainline/lk2nd)  - bootloader for Qualcomm MSM8916/MSM8226/MSM8974/... devices
+  - [tlk](https://nv-tegra.nvidia.com/r/plugins/gitiles/3rdparty/ote_partner/tlk) - NVIDIA trusted little kernel
   - [lk-rtos](https://github.com/NXPmicro/littlekernel-lk)  - RTOS core
   - [lk-overlay](https://github.com/librerpi/lk-overlay) - VPU supported ARM bootlader
   - [android boot loader](https://android.googlesource.com/trusty/lk) - android boot loader stuff
