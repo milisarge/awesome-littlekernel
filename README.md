@@ -14,10 +14,12 @@ Table of Contents
   - [LK](https://github.com/littlekernel/lk) - main project
   - [lkuser](https://github.com/littlekernel/lkuser) - framework for a simple user space
   - [lk2nd](https://github.com/msm8916-mainline/lk2nd)  - bootloader for Qualcomm MSM8916/MSM8226/MSM8974/... devices
+  - [lk-rtos](https://github.com/NXPmicro/littlekernel-lk)  - RTOS core
   - [android boot loader](https://android.googlesource.com/trusty/lk) - android boot loader stuff
   - [lk_hv](https://github.com/wtliang110/lk_hv) - hypervisor project
   - [lk-rpm](https://github.com/fxsheep/lk-rpm) - for microcontrollers
   - [lk-userspace](https://github.com/ayrtonm/lk)  - some userspace stuff
+  - [zircon](https://fuchsia.googlesource.com/fuchsia/+/refs/heads/main/zircon) - lk based microkernel project in Fuchsia OS
 
 
 ## Documentation
