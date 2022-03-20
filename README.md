@@ -8,6 +8,7 @@ Table of Contents
 
   * [Projects](#projects)
   * [Documentation](#documentation)
+  * [Discuss](#discuss)
 
 ## Projects
 
@@ -29,4 +30,6 @@ Table of Contents
   - [lk bootloader overview](https://developer.qualcomm.com/qfile/28821/lm80-p0436-1_little_kernel_boot_loader_overview.pdf) - Qualcomm bootloader overview of dragon processors
   -[tlk](https://trustedfirmware-a.readthedocs.io/en/latest/components/spd/tlk-dispatcher.html#trusted-little-kernel-tlk) - Trusted Little Kernel
 
+## Discuss
+ - [kernel type](https://forum.osdev.org/viewtopic.php?f=15&t=31930) some osdev forum post about LK kernel type  (monolithic or microkernel)
   
