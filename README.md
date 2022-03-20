@@ -22,6 +22,6 @@ Table of Contents
 
 ## Documentation
   - [lk wiki](https://github.com/littlekernel/lk/wiki) - official wiki pages
-  - [lk bootloader overview](file:///tmp/mozilla_mak0/lm80-p0436-1_little_kernel_boot_loader_overview.pdf) - Qualcomm bootloader overview of dragon processors
+  - [lk bootloader overview](https://developer.qualcomm.com/qfile/28821/lm80-p0436-1_little_kernel_boot_loader_overview.pdf) - Qualcomm bootloader overview of dragon processors
 
   
