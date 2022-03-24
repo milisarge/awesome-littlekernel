@@ -36,4 +36,4 @@ Table of Contents
 ## Discuss
  - [irc chat](https://web.libera.chat/#lk) - IRC chat 
  - [kernel type](https://forum.osdev.org/viewtopic.php?f=15&t=31930) some osdev forum post about LK kernel type  (monolithic or microkernel)
- - [kernel api](http://yiiyee.cn/blog/2019/08/28/lk1) a blog post about lk kernel API (chineese)
+ - [kernel api](http://yiiyee.cn/blog/2019/08/28/lk1) a blog post about lk kernel API (chinese)
