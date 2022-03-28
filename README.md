@@ -22,6 +22,7 @@ Table of Contents
   - [android boot loader](https://android.googlesource.com/trusty/lk) - android boot loader stuff
   - [lk_hv](https://github.com/wtliang110/lk_hv) - hypervisor project
   - [lk-rpm](https://github.com/fxsheep/lk-rpm) - for microcontrollers
+  - [lk-iot-apps](https://github.com/jacobdam/lk-iot-apps) - playground for STM32 boards 
   - [lk-userspace](https://github.com/ayrtonm/lk)  - some userspace stuff
   - [zircon](https://fuchsia.googlesource.com/fuchsia/+/refs/heads/main/zircon) - lk based microkernel project in Fuchsia OS
 
