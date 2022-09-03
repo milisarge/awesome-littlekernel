@@ -26,6 +26,7 @@ Table of Contents
   - [lk-userspace](https://github.com/ayrtonm/lk)  - some userspace stuff
   - [zircon](https://fuchsia.googlesource.com/fuchsia/+/refs/heads/main/zircon) - lk based microkernel project in Fuchsia OS
   - [clk](https://github.com/zeusk/clk) - Port for HD2/LEO
+  - [CH579](https://github.com/fxsheep/lk-ch579) - Little Kernel for WCH CH579 with LWIP 
 
 ## Documentation
   - [lk wiki](https://github.com/littlekernel/lk/wiki) - official wiki pages
