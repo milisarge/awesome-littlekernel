@@ -1,4 +1,4 @@
-# awesome-lk
+# awesome-littlekernel
 A list about Little Kernel related things.
 
 You can help by sending Pull Requests to add more information.
