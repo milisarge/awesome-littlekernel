@@ -26,7 +26,8 @@ Table of Contents
   - [lk-userspace](https://github.com/ayrtonm/lk)  - some userspace stuff
   - [zircon](https://fuchsia.googlesource.com/fuchsia/+/refs/heads/main/zircon) - lk based microkernel project in Fuchsia OS
   - [clk](https://github.com/zeusk/clk) - Port for HD2/LEO
-  - [CH579](https://github.com/fxsheep/lk-ch579) - Little Kernel for WCH CH579 with LWIP 
+  - [CH579](https://github.com/fxsheep/lk-ch579) - Little Kernel for WCH CH579 with LWIP
+  - [codeaurora-lk](https://source.codeaurora.org/quic/la/kernel/lk/tree/) - Codeaurora's LK fork which includes different libraries such as OpenSSL 
 
 ## Documentation
   - [lk wiki](https://github.com/littlekernel/lk/wiki) - official wiki pages
