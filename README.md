@@ -33,6 +33,7 @@ Table of Contents
   - [lk wiki](https://github.com/littlekernel/lk/wiki) - official wiki pages
   - [lk bootloader overview](https://developer.qualcomm.com/qfile/28821/lm80-p0436-1_little_kernel_boot_loader_overview.pdf) - Qualcomm bootloader overview of dragon processors
   - [tlk](https://trustedfirmware-a.readthedocs.io/en/latest/components/spd/tlk-dispatcher.html#trusted-little-kernel-tlk) - Trusted Little Kernel
+  - [https://source.android.com/docs/security/features/trusty] - trusty kernel for android (Trusted Execution Environment)
 
 ## Papers
   - [TraFic](https://doi.org/10.1109/CONECCT52877.2021.9622532) - A Systematic Low Overhead Code Coverage Tool for Embedded Systems
