@@ -41,6 +41,7 @@ Table of Contents
 ## Papers
   - [TraFic](https://doi.org/10.1109/CONECCT52877.2021.9622532) - A Systematic Low Overhead Code Coverage Tool for Embedded Systems
   - [Auto Off-Target](https://dl.acm.org/doi/pdf/10.1145/3551349.3556915) - Enabling Thorough and Scalable Testing for Complex Software Systems
+  - [IZIRUNF0](https://ar5iv.labs.arxiv.org/html/2109.10830) - A commercial embedded board as DAQ in Nuclear Physics
 
 ## Discuss
  - [irc chat](https://web.libera.chat/#lk) - IRC chat 
